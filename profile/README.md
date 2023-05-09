@@ -3,7 +3,7 @@
 Welcome to TechnicalKDR's Organization on Github, where everything robokitten related calls itself home.
 
 * [Twitch](https://kdrkitten.tv)
-* [Instagram](https://insta.kdrkitten.tv)
+* [Instagram](https://instagram.kdrkitten.tv)
 * [Youtube](https://yt.kdrkitten.tv)
 
 Also find us on Discord:
