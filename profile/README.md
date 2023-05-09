@@ -7,4 +7,4 @@ Welcome to TechnicalKDR's Organization on Github, where everything robokitten re
 * [Youtube](https://yt.kdrkitten.tv)
 
 Also find us on Discord:
-[![](https://dcbadge.vercel.app/api/server/kdrkitten)](https://discord.gg/kdrkitten)
+[![](https://dcbadge.vercel.app/api/server/kdrkitten?theme=default-inverted&logoColor=pink)](https://discord.gg/kdrkitten)
